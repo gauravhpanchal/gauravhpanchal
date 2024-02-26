@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaurav Panchal</h1>
-<h3 align="center">I am a motivated and dedicated Full Stack MERN Developer in training with a passion for creating dynamic and responsive web applications. With a strong foundation in MongoDB, Express.js, React.js, and Node.js, I am committed to developing high-quality, scalable solutions that meet the needs of both users and clients. I have a natural curiosity for technology and am always eager to learn and implement new frameworks and tools to stay ahead of the curve. I am excited to contribute my skills and knowledge to the tech industry and am actively seeking opportunities to grow and refine my craft.</h3>
+<h3 align="center">I am a motivated and dedicated Full Stack MERN Developer with a passion for creating dynamic and responsive web applications. With a strong foundation in MongoDB, Express.js, React.js, NextJs and Node.js, I am committed to developing high-quality, scalable solutions that meet the needs of both users and clients. I have a natural curiosity for technology and am always eager to learn and implement new frameworks and tools to stay ahead of the curve. I am excited to contribute my skills and knowledge to the tech industry and am actively seeking opportunities to grow and refine my craft.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravhpanchal&label=Profile%20views&color=0e75b6&style=flat" alt="gauravhpanchal" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://gauravhpanchal.github.io/](https://gauravhpanchal.github.io/)
 
-- 💬 Ask me about **React | ChakraUI | Redux | Node.js | Express.js | MongoDB | HTML | CSS | JavaScript | Java**
+- 💬 Ask me about **React | NextJS | ChakraUI | Redux | Node.js | Express.js | MongoDB | HTML | CSS | JavaScript | Java | Typescript | Tailwind CSS**
 
 - 📫 How to reach me **gauravhpanchal2@gmail.com**
 
